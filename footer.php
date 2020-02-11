@@ -2,7 +2,7 @@
 		<div class="wrap">
 			<footer>
 				<div id="footer">
-					<p>&copy; All Right Reserved By- IT-Bari.com</p>
+					<p>&copy; All Right Reserved By- Md. Anisur Rahman Rony</p>
 				</div>
 			</footer>			
 		</div>
