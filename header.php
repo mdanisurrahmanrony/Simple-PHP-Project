@@ -1,7 +1,6 @@
 <!DOCTYPE HTML>
 <html lang="<?php language_attributes(); ?>">
-	<head>
-	<!-- Tutorial By- ABDUL KADER- ITBARI.com -->
+	<head>	
 		<meta charset="<?php bloginfo('charset'); ?>">
 		<title><?php bloginfo('name'); ?></title>
 
